@@ -1,0 +1,2708 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2019-09-25T04:03:03Z",
+    "timestamp_areas_base": "2019-09-25T03:57:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 214312074,
+      "lat": 43.6681852,
+      "lon": -79.3950505,
+      "tags": {
+        "loc_name": "The Crystal",
+        "name": "Michael Lee-Chin Crystal",
+        "name:fr": "Cristal Michael Lee-Chin",
+        "operator": "Royal Ontario Museum",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 364861014,
+      "lat": 43.6632901,
+      "lon": -79.3956311,
+      "tags": {
+        "name": "University of Toronto Art Centre",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 380040879,
+      "lat": 43.6501295,
+      "lon": -79.3696915,
+      "tags": {
+        "name": "Museum of Illusions",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 410395716,
+      "lat": 43.7385397,
+      "lon": -79.6266156,
+      "tags": {
+        "opening_hours": "Mo-Su 09:00-18:30",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775420265,
+      "lat": 43.6443881,
+      "lon": -79.3875932,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "250",
+        "addr:street": "Front Street West",
+        "name": "CBC Museum",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+1-416-205-5574",
+        "tourism": "museum",
+        "website": "https://www.cbc.ca/museum/",
+        "wheelchair": "yes",
+        "wikidata": "Q5009016",
+        "wikipedia": "en:CBC Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 889783079,
+      "lat": 43.8118377,
+      "lon": -79.3325536,
+      "tags": {
+        "name": "St. Mark's Coptic Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1138434290,
+      "lat": 43.678931,
+      "lon": -79.408114,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "285",
+        "addr:street": "Spadina Road",
+        "name": "Spadina Museum",
+        "tourism": "museum",
+        "wikidata": "Q3289971",
+        "wikipedia": "en:Spadina House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1282293391,
+      "lat": 43.6544937,
+      "lon": -79.3866913,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "55",
+        "addr:postcode": "M5G 2H5",
+        "addr:street": "Centre Avenue",
+        "name": "Textile Museum Of Canada",
+        "phone": "+1-416-599-5321",
+        "tourism": "museum",
+        "website": "http://www.textilemuseum.ca/",
+        "wikidata": "Q7708469",
+        "wikipedia": "en:Textile Museum of Canada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1871493805,
+      "lat": 43.6426208,
+      "lon": -79.3715697,
+      "tags": {
+        "name": "Redpath Sugar Museum",
+        "tourism": "museum",
+        "wikidata": "Q3502846",
+        "wikipedia": "en:Redpath Sugar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2020653654,
+      "lat": 43.6477412,
+      "lon": -79.3801145,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "234",
+        "addr:postcode": "M5K 1B2",
+        "addr:street": "Bay Street",
+        "name": "Design Exchange",
+        "phone": "+1-416-363-6121",
+        "tourism": "museum",
+        "website": "https://www.dx.org/",
+        "wikidata": "Q5264264",
+        "wikipedia": "en:Design Exchange"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2283661486,
+      "lat": 43.6519613,
+      "lon": -79.3704013,
+      "tags": {
+        "name": "Toronto's First Post Office",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2342894683,
+      "lat": 43.6497536,
+      "lon": -79.388349,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "230",
+        "addr:street": "Richmond Street West",
+        "name": "Onsite [at] OCAD U",
+        "note": "Art gallery",
+        "operator": "OCAD University",
+        "phone": "+1-416-977-6000x2208",
+        "tourism": "museum",
+        "website": "http://www.ocadu.ca/onsite.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2346775524,
+      "lat": 43.649334,
+      "lon": -79.3888874,
+      "tags": {
+        "layer": "1",
+        "name": "OCAD Graduate Gallery",
+        "operator": "OCAD University",
+        "tourism": "museum",
+        "website": "http://www.ocadu.ca/about_ocad/galleries/gallery/information.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2354337892,
+      "lat": 43.7253943,
+      "lon": -79.3323344,
+      "tags": {
+        "addr:city": "North York",
+        "addr:housenumber": "77",
+        "addr:street": "Wynford Drive",
+        "name": "Aga Khan Museum",
+        "opendata:type": "107008",
+        "tourism": "museum",
+        "wikidata": "Q4690937",
+        "wikipedia": "en:Aga Khan Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2806808902,
+      "lat": 43.6611292,
+      "lon": -79.3851531,
+      "tags": {
+        "name": "Police Museum & Discovery Centre",
+        "opening_hours": "Mo-Fr 08:30-16:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3061260243,
+      "lat": 43.6406473,
+      "lon": -79.3859564,
+      "tags": {
+        "name": "Toronto Railway Museum",
+        "tourism": "museum",
+        "website": "http://www.trha.ca/museum.html",
+        "website_1": "http://www.torontorailwaymuseum.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3643102696,
+      "lat": 43.6600112,
+      "lon": -79.3878085,
+      "tags": {
+        "name": "INSULIN: Toronto’s Gift to the World",
+        "tourism": "museum",
+        "website": "https://www.bbdc.org/news/insulin-toronto-s-gift-to-the-world-a-permanent-display-of-artefacts-from-the-discovery-of-insulin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3728355131,
+      "lat": 43.6491228,
+      "lon": -79.3718086,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housename": "The Market Gallery",
+        "addr:housenumber": "95",
+        "addr:postcode": "M5E 1C2",
+        "addr:street": "Front Street East",
+        "name": "The Market Gallery",
+        "note": "2nd floor, South St. Lawrence Market",
+        "operator": "City of Toronto",
+        "phone": "+1-416-392-7604",
+        "tourism": "museum",
+        "website": "https://www.facebook.com/MarketGallery",
+        "wikidata": "Q2320221",
+        "wikipedia": "en:St. Lawrence Market South"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305352618,
+      "lat": 43.6716152,
+      "lon": -79.3867594,
+      "tags": {
+        "name": "TD Gallery",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4890523125,
+      "lat": 43.647158,
+      "lon": -79.3778245,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:postcode": "M5E 1X8",
+        "addr:street": "Yonge Street",
+        "name": "Hockey hall of fame",
+        "name:en": "Hockey hall of fame",
+        "name:fr": "Temple de la renommée du hockey",
+        "phone": "+1-416-360-7765",
+        "tourism": "museum",
+        "website": "http://hhof.com",
+        "wikidata": "Q1136687",
+        "wikipedia": "en:Hockey Hall of Fame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5189379998,
+      "lat": 43.6368004,
+      "lon": -79.4080393,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "660",
+        "addr:postcode": "M5V 1A9",
+        "addr:street": "Fleet Street",
+        "name": "The Queen's York Rangers Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5856840678,
+      "lat": 43.6554088,
+      "lon": -79.4453774,
+      "tags": {
+        "name": "The Art of Banksy",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6297816228,
+      "lat": 43.637565,
+      "lon": -79.4222742,
+      "tags": {
+        "name": "Museum of Television",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6331862143,
+      "lat": 43.665933,
+      "lon": -79.3542165,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "550",
+        "addr:street": "Gerrard Street East",
+        "description": "After renovation in 2013 parts of the Building were made a museum about the jail. The tour is self guided. Just enter from the south main entrance the administration building. The history is described and some old cells and rooms can be visited.",
+        "name": "Old Don Jail",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Bridgepoint Health Administration",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6342119008,
+      "lat": 43.6558412,
+      "lon": -79.4554699,
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "1614",
+        "addr:street": "Bloor Street West",
+        "name": "Ukrainian Canadian Shevchenko",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6342175893,
+      "lat": 43.6877932,
+      "lon": -79.4912508,
+      "tags": {
+        "name": "Prehistoria Natural History Centre",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6437159985,
+      "lat": 43.6468022,
+      "lon": -79.3810107,
+      "tags": {
+        "name": "Gallery of Inuit art",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4942687,
+      "nodes": [
+        32566760,
+        727887123,
+        727887134,
+        727887139,
+        1823163234,
+        2149749949,
+        727887146,
+        727887117,
+        2149749951,
+        32566753,
+        2143282069,
+        2143282072,
+        2481906178,
+        2143282064,
+        2481906175,
+        2143282062,
+        2143282059,
+        32566754,
+        2144960984,
+        2143401272,
+        2143401274,
+        2143401273,
+        2143401271,
+        334396213,
+        334396206,
+        2149749929,
+        2149749932,
+        2149749930,
+        2149749928,
+        32566758,
+        2149749931,
+        2149749933,
+        2149749934,
+        2149749935,
+        2149749936,
+        2149749937,
+        2149749938,
+        2149749939,
+        2149749940,
+        2149749941,
+        2149749942,
+        32566760
+      ],
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "100",
+        "addr:postcode": "M5S 2C6",
+        "addr:street": "Queen's Park",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Royal Ontario Museum",
+        "name:fr": "Musée royal de l'Ontario",
+        "name:ru": "Королевский музей Онтарио",
+        "opening_hours": "Sa-Th 10:00-17:30; Fr 10:00-18:30",
+        "phone": "+1-416-586-8000",
+        "tourism": "museum",
+        "website": "https://www.rom.on.ca/en",
+        "wheelchair": "yes",
+        "wikipedia": "en:Royal Ontario Museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 14361743,
+      "nodes": [
+        6209352576,
+        6209348689,
+        6209351173,
+        6209347340,
+        6209352737,
+        6209349044,
+        6209346054,
+        6209351587,
+        6209347740,
+        6209353132,
+        6209349935,
+        6209346661,
+        6209351993,
+        6209348100,
+        139620016,
+        139620015,
+        139620014,
+        139620047,
+        139620046,
+        139620044,
+        139620043,
+        139620040,
+        139620042,
+        139620041,
+        139620039,
+        139620038,
+        139620032,
+        2111470846,
+        2111470845,
+        139620034,
+        2111470847,
+        6209354058,
+        6209351367,
+        139620036,
+        2111470848,
+        6209352916,
+        6209349428,
+        6209346442,
+        6209351775,
+        6209347926,
+        6209353316,
+        6209350419,
+        6209346847,
+        6209352180,
+        6209353825,
+        6209351132,
+        6209347298,
+        6209352696,
+        6209349006,
+        6209346013,
+        6209351544,
+        6209347700,
+        6209348397,
+        6209353934,
+        6209351243,
+        6209347405,
+        6209346542,
+        6209351877,
+        6209348027,
+        6209353419,
+        6209350627,
+        6209352061,
+        6209348169,
+        139620030,
+        2138305743,
+        2138305744,
+        2138305745,
+        2138305747,
+        2138305748,
+        2138305746,
+        2138305749,
+        2138305750,
+        139620023,
+        2138305752,
+        139620022,
+        139620021,
+        2111470855,
+        6209351324,
+        6209347489,
+        6209352876,
+        6209349388,
+        6209346401,
+        6209351734,
+        6209347886,
+        6209353280,
+        6209350178,
+        6209346806,
+        6209352138,
+        6209348251,
+        6209353787,
+        6209351093,
+        6209347259,
+        6209350455,
+        6209346882,
+        6209352214,
+        6209348324,
+        6209352576
+      ],
+      "tags": {
+        "addr:city": "North York",
+        "addr:housenumber": "770",
+        "addr:street": "Don Mills Road",
+        "building": "yes",
+        "building:colour": "grey",
+        "name": "Ontario Science Centre",
+        "opening_hours": "Mo-Fr 10:00-16:00; Sa-Su 10:00-17:00",
+        "tourism": "museum",
+        "website": "https://www.ontariosciencecentre.ca/",
+        "wikipedia": "en:Ontario Science Centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19930036,
+      "nodes": [
+        209247525,
+        209247576,
+        209247521,
+        209247566,
+        209247585,
+        209247551,
+        209247558,
+        209247532,
+        209247523,
+        209247530,
+        209247522,
+        209247544,
+        209247525
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Toronto Archives",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 20252183,
+      "nodes": [
+        214325341,
+        214325351,
+        214325361,
+        1584173977,
+        1584173976,
+        214325372,
+        2142265847,
+        1584173974,
+        1584173975,
+        214325380,
+        214325389,
+        2495309272,
+        214325432,
+        214325440,
+        214325446,
+        214325455,
+        214325341
+      ],
+      "tags": {
+        "building": "yes",
+        "fee": "yes",
+        "name": "Gardiner Museum",
+        "name:fr": "Musée Gardiner",
+        "name:ru": "Музей Гардинера",
+        "note": "Museum of Ceramics",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q2043270",
+        "wikipedia": "en:Gardiner Museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22372216,
+      "nodes": [
+        240432361,
+        240432362,
+        2521570155,
+        2521570154,
+        2521570153,
+        2521570152,
+        240432361
+      ],
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "327",
+        "addr:postcode": "M5S 1W7",
+        "addr:street": "Bloor Street West",
+        "building": "yes",
+        "name": "Bata Shoe Museum",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q810693",
+        "wikipedia": "en:Bata Shoe Museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 62255416,
+      "nodes": [
+        1570132942,
+        1570132926,
+        1271627193,
+        1271627179,
+        1271627188,
+        1271627191,
+        777473263,
+        1570132941,
+        394493147,
+        1570132942
+      ],
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housename": "Brookfield Place",
+        "addr:housenumber": "30",
+        "addr:postcode": "M5E 1X8",
+        "addr:street": "Yonge Street",
+        "building": "yes",
+        "hst_number": "R102875664",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "HHOF",
+        "name": "Hockey Hall of Fame",
+        "name:en": "Hockey Hall of Fame",
+        "name:fr": "Temple de la renommée du hockey",
+        "name:ko": "하키 명예의 전당",
+        "name:ru": "Зал хоккейной славы",
+        "opening_hours": "Mo-Sa 09:30-18:00; Su 10:00-18:00",
+        "phone": "+1-416-360-7765",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "http://www.hhof.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q1136687",
+        "wikipedia": "en:Hockey Hall of Fame"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79439876,
+      "nodes": [
+        927480397,
+        927480401,
+        927480399,
+        927480394,
+        927480397
+      ],
+      "tags": {
+        "addr:city": "North York",
+        "addr:housenumber": "1091",
+        "addr:street": "Finch Avenue East",
+        "building": "yes",
+        "historic": "school",
+        "name": "Historic Zion Schoolhouse",
+        "note": "The building is still here but I think this museum was closed due to Rob Ford cuts",
+        "opendata:type": "107008",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 111773209,
+      "nodes": [
+        1272611528,
+        2274637296,
+        1272611538,
+        2274637294,
+        1272611534,
+        1272611525,
+        1272611529,
+        1272611518,
+        1272611528
+      ],
+      "tags": {
+        "addr:city": "North York",
+        "addr:housenumber": "20",
+        "addr:street": "Harrison Garden Boulevard",
+        "building": "yes",
+        "name": "Elihu Pease House",
+        "opendata:type": "107008",
+        "source": "Bing",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 132055199,
+      "nodes": [
+        1453243683,
+        1453243681,
+        1453243680,
+        1453243677,
+        1453243665,
+        1453243664,
+        1453243675,
+        1453243666,
+        1453243649,
+        5642023761,
+        1453243651,
+        5642023307,
+        1453243656,
+        1453243660,
+        5642023298,
+        5642023760,
+        1453243661,
+        1453243653,
+        5642023299,
+        5642023301,
+        5642023302,
+        5642023300,
+        1453243654,
+        5642023304,
+        5642023306,
+        5642023305,
+        5642023303,
+        1453243683
+      ],
+      "tags": {
+        "building": "detached",
+        "name": "Gibson House",
+        "source": "Bing",
+        "tourism": "museum",
+        "wikidata": "Q1523020",
+        "wikipedia": "en:Gibson House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141693334,
+      "nodes": [
+        1550990029,
+        1550990026,
+        1550990025,
+        1550990019,
+        1550990014,
+        1550990016,
+        1550990013,
+        1550990030,
+        1550990031,
+        1550990032,
+        1550990034,
+        1550990037,
+        1550990036,
+        1550990039,
+        1550990040,
+        1550990042,
+        1550990041,
+        1550990047,
+        1550990052,
+        1550990043,
+        1550990046,
+        1550990053,
+        1550990066,
+        1550990061,
+        1550990072,
+        1550990067,
+        1550990068,
+        1550990070,
+        1550990071,
+        1550990064,
+        1550990060,
+        1550990063,
+        1550990062,
+        1550990057,
+        1550990059,
+        1550990056,
+        1550990055,
+        1550990054,
+        1550990051,
+        1550990048,
+        1550990050,
+        1550990044,
+        1550990038,
+        1550990029
+      ],
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "317",
+        "addr:postcode": "M5T 1G4",
+        "addr:street": "Dundas Street West",
+        "alt_name": "AGO",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Art Gallery of Ontario",
+        "name:fr": "Musée des beaux-arts de l’Ontario",
+        "name:ko": "온타리오 미술관",
+        "opening_hours": "Mo off; Tu 12:00-15:00,17:00-22:00; We-Fr 12:00-15:00,17:00-22:00; Sa 11:00-14:30,17:00-22:00; Su 11:00-15:00",
+        "phone": "+1-416-979-6648",
+        "stars": "8.4",
+        "stars:system": "10 star rating",
+        "tourism": "museum",
+        "website": "https://ago.ca/",
+        "wheelchair": "limited",
+        "wikidata": "Q670250",
+        "wikipedia": "en:Art Gallery of Ontario"
+      }
+    },
+    {
+      "type": "way",
+      "id": 192836912,
+      "nodes": [
+        2033799145,
+        2033799144,
+        2149834620,
+        2149834622,
+        2149834623,
+        2149834624,
+        2149834626,
+        2149834617,
+        2033799139,
+        2033799152,
+        2033799145
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Deaf Culture Centre",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244888542,
+      "nodes": [
+        2521586404,
+        2521586402,
+        2521586399,
+        6160037085,
+        2521586386,
+        2521586383,
+        2521586388,
+        2521586393,
+        2521586395,
+        2521586390,
+        2521586398,
+        2521586404
+      ],
+      "tags": {
+        "addr:city": "Toronto",
+        "addr:housenumber": "4709",
+        "addr:street": "Dundas Street West",
+        "building": "public",
+        "name": "Montgomery's Inn",
+        "phone": "+1-416-394-8113",
+        "tourism": "museum",
+        "website": "http://montgomerysinn.com/",
+        "wikidata": "Q6905618",
+        "wikipedia:en": "Montgomery's Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 261921588,
+      "nodes": [
+        2675524588,
+        6159647689,
+        2675524585,
+        6159647688,
+        6159647687,
+        6159647686,
+        2675524583,
+        2675524584,
+        2675524588
+      ],
+      "tags": {
+        "addr:city": "York",
+        "addr:housenumber": "4066",
+        "addr:street": "Old Dundas Street",
+        "building": "detached",
+        "name": "Lambton House",
+        "phone": "+1-416-767-5472",
+        "tourism": "museum",
+        "website": "http://www.lambtonhouse.org",
+        "wikidata": "Q6481600",
+        "wikipedia:en": "Lambton House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490218078,
+      "nodes": [
+        4823921983,
+        4823921984,
+        4823921985,
+        4823921986,
+        4823921983
+      ],
+      "tags": {
+        "addr:housenumber": "158",
+        "addr:street": "Sterling Road",
+        "building": "yes",
+        "name": "Museum of Contemporary Art",
+        "old_name": "Tower Building",
+        "tourism": "museum",
+        "website": "https://museumofcontemporaryart.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2521586383,
+      "lat": 43.651503,
+      "lon": -79.525429
+    },
+    {
+      "type": "node",
+      "id": 2521586386,
+      "lat": 43.651581,
+      "lon": -79.525356
+    },
+    {
+      "type": "node",
+      "id": 2521586388,
+      "lat": 43.651603,
+      "lon": -79.525634
+    },
+    {
+      "type": "node",
+      "id": 2521586390,
+      "lat": 43.651602,
+      "lon": -79.525751
+    },
+    {
+      "type": "node",
+      "id": 2521586393,
+      "lat": 43.651609,
+      "lon": -79.525629
+    },
+    {
+      "type": "node",
+      "id": 2521586395,
+      "lat": 43.651648,
+      "lon": -79.525708
+    },
+    {
+      "type": "node",
+      "id": 2521586398,
+      "lat": 43.651655,
+      "lon": -79.52586
+    },
+    {
+      "type": "node",
+      "id": 2521586399,
+      "lat": 43.651721,
+      "lon": -79.525641
+    },
+    {
+      "type": "node",
+      "id": 2521586402,
+      "lat": 43.651761,
+      "lon": -79.525603
+    },
+    {
+      "type": "node",
+      "id": 2521586404,
+      "lat": 43.651814,
+      "lon": -79.525712
+    },
+    {
+      "type": "node",
+      "id": 6160037085,
+      "lat": 43.651685,
+      "lon": -79.525568
+    },
+    {
+      "type": "node",
+      "id": 2675524583,
+      "lat": 43.662981,
+      "lon": -79.503637
+    },
+    {
+      "type": "node",
+      "id": 2675524584,
+      "lat": 43.663046,
+      "lon": -79.503757
+    },
+    {
+      "type": "node",
+      "id": 2675524585,
+      "lat": 43.663092,
+      "lon": -79.503526
+    },
+    {
+      "type": "node",
+      "id": 2675524588,
+      "lat": 43.66316,
+      "lon": -79.50364
+    },
+    {
+      "type": "node",
+      "id": 6159647686,
+      "lat": 43.662984,
+      "lon": -79.503634
+    },
+    {
+      "type": "node",
+      "id": 6159647687,
+      "lat": 43.662976,
+      "lon": -79.503619
+    },
+    {
+      "type": "node",
+      "id": 6159647688,
+      "lat": 43.663083,
+      "lon": -79.503509
+    },
+    {
+      "type": "node",
+      "id": 6159647689,
+      "lat": 43.663096,
+      "lon": -79.503523
+    },
+    {
+      "type": "node",
+      "id": 4823921983,
+      "lat": 43.6547851,
+      "lon": -79.445404
+    },
+    {
+      "type": "node",
+      "id": 4823921984,
+      "lat": 43.6548324,
+      "lon": -79.4451604
+    },
+    {
+      "type": "node",
+      "id": 4823921985,
+      "lat": 43.6543903,
+      "lon": -79.4449964
+    },
+    {
+      "type": "node",
+      "id": 4823921986,
+      "lat": 43.654343,
+      "lon": -79.44524
+    },
+    {
+      "type": "node",
+      "id": 1271627179,
+      "lat": 43.6468461,
+      "lon": -79.3773849
+    },
+    {
+      "type": "node",
+      "id": 1271627188,
+      "lat": 43.646858,
+      "lon": -79.3773302
+    },
+    {
+      "type": "node",
+      "id": 1271627191,
+      "lat": 43.6468816,
+      "lon": -79.3773042
+    },
+    {
+      "type": "node",
+      "id": 1271627193,
+      "lat": 43.646886,
+      "lon": -79.3774212
+    },
+    {
+      "type": "node",
+      "id": 1570132926,
+      "lat": 43.6469571,
+      "lon": -79.3774803
+    },
+    {
+      "type": "node",
+      "id": 1570132942,
+      "lat": 43.6470202,
+      "lon": -79.3774952
+    },
+    {
+      "type": "node",
+      "id": 1550990013,
+      "lat": 43.652961,
+      "lon": -79.3932882
+    },
+    {
+      "type": "node",
+      "id": 1550990014,
+      "lat": 43.6530211,
+      "lon": -79.392922
+    },
+    {
+      "type": "node",
+      "id": 1550990016,
+      "lat": 43.6530359,
+      "lon": -79.3929279
+    },
+    {
+      "type": "node",
+      "id": 1550990019,
+      "lat": 43.6530449,
+      "lon": -79.392808
+    },
+    {
+      "type": "node",
+      "id": 1550990025,
+      "lat": 43.6531065,
+      "lon": -79.3928325
+    },
+    {
+      "type": "node",
+      "id": 1550990026,
+      "lat": 43.6531243,
+      "lon": -79.3927468
+    },
+    {
+      "type": "node",
+      "id": 1550990029,
+      "lat": 43.6531501,
+      "lon": -79.39262
+    },
+    {
+      "type": "node",
+      "id": 1550990030,
+      "lat": 43.6531797,
+      "lon": -79.3933751
+    },
+    {
+      "type": "node",
+      "id": 1550990031,
+      "lat": 43.6531905,
+      "lon": -79.3933232
+    },
+    {
+      "type": "node",
+      "id": 1550990032,
+      "lat": 43.653207,
+      "lon": -79.3933297
+    },
+    {
+      "type": "node",
+      "id": 1550990034,
+      "lat": 43.6532125,
+      "lon": -79.3933036
+    },
+    {
+      "type": "node",
+      "id": 1550990036,
+      "lat": 43.6532446,
+      "lon": -79.3933452
+    },
+    {
+      "type": "node",
+      "id": 1550990037,
+      "lat": 43.6532501,
+      "lon": -79.3933186
+    },
+    {
+      "type": "node",
+      "id": 1550990038,
+      "lat": 43.6533018,
+      "lon": -79.3918905
+    },
+    {
+      "type": "node",
+      "id": 1550990039,
+      "lat": 43.6534175,
+      "lon": -79.3934139
+    },
+    {
+      "type": "node",
+      "id": 1550990040,
+      "lat": 43.6534263,
+      "lon": -79.3933716
+    },
+    {
+      "type": "node",
+      "id": 1550990041,
+      "lat": 43.6534446,
+      "lon": -79.3934792
+    },
+    {
+      "type": "node",
+      "id": 1550990042,
+      "lat": 43.6534638,
+      "lon": -79.3933865
+    },
+    {
+      "type": "node",
+      "id": 1550990043,
+      "lat": 43.6536847,
+      "lon": -79.3932958
+    },
+    {
+      "type": "node",
+      "id": 1550990044,
+      "lat": 43.6536861,
+      "lon": -79.3920432
+    },
+    {
+      "type": "node",
+      "id": 1550990046,
+      "lat": 43.6536916,
+      "lon": -79.3932623
+    },
+    {
+      "type": "node",
+      "id": 1550990047,
+      "lat": 43.6537004,
+      "lon": -79.3935808
+    },
+    {
+      "type": "node",
+      "id": 1550990048,
+      "lat": 43.653741,
+      "lon": -79.3920839
+    },
+    {
+      "type": "node",
+      "id": 1550990050,
+      "lat": 43.6537446,
+      "lon": -79.3920664
+    },
+    {
+      "type": "node",
+      "id": 1550990051,
+      "lat": 43.6537516,
+      "lon": -79.3920881
+    },
+    {
+      "type": "node",
+      "id": 1550990052,
+      "lat": 43.6537539,
+      "lon": -79.3933233
+    },
+    {
+      "type": "node",
+      "id": 1550990053,
+      "lat": 43.6537889,
+      "lon": -79.393301
+    },
+    {
+      "type": "node",
+      "id": 1550990054,
+      "lat": 43.6538272,
+      "lon": -79.3917249
+    },
+    {
+      "type": "node",
+      "id": 1550990055,
+      "lat": 43.6538608,
+      "lon": -79.3917383
+    },
+    {
+      "type": "node",
+      "id": 1550990056,
+      "lat": 43.6539278,
+      "lon": -79.3914158
+    },
+    {
+      "type": "node",
+      "id": 1550990057,
+      "lat": 43.6539501,
+      "lon": -79.3915901
+    },
+    {
+      "type": "node",
+      "id": 1550990059,
+      "lat": 43.6539819,
+      "lon": -79.3914372
+    },
+    {
+      "type": "node",
+      "id": 1550990060,
+      "lat": 43.6540304,
+      "lon": -79.3916081
+    },
+    {
+      "type": "node",
+      "id": 1550990061,
+      "lat": 43.6540309,
+      "lon": -79.3920798
+    },
+    {
+      "type": "node",
+      "id": 1550990062,
+      "lat": 43.6540323,
+      "lon": -79.3916228
+    },
+    {
+      "type": "node",
+      "id": 1550990063,
+      "lat": 43.654035,
+      "lon": -79.3916099
+    },
+    {
+      "type": "node",
+      "id": 1550990064,
+      "lat": 43.6540395,
+      "lon": -79.3915644
+    },
+    {
+      "type": "node",
+      "id": 1550990066,
+      "lat": 43.6540419,
+      "lon": -79.3920842
+    },
+    {
+      "type": "node",
+      "id": 1550990067,
+      "lat": 43.6540695,
+      "lon": -79.3916404
+    },
+    {
+      "type": "node",
+      "id": 1550990068,
+      "lat": 43.6540721,
+      "lon": -79.3916282
+    },
+    {
+      "type": "node",
+      "id": 1550990070,
+      "lat": 43.6540875,
+      "lon": -79.3916344
+    },
+    {
+      "type": "node",
+      "id": 1550990071,
+      "lat": 43.6540973,
+      "lon": -79.3915873
+    },
+    {
+      "type": "node",
+      "id": 1550990072,
+      "lat": 43.6541182,
+      "lon": -79.3916597
+    },
+    {
+      "type": "node",
+      "id": 209247521,
+      "lat": 43.6769948,
+      "lon": -79.4075096
+    },
+    {
+      "type": "node",
+      "id": 209247522,
+      "lat": 43.6771123,
+      "lon": -79.4069621
+    },
+    {
+      "type": "node",
+      "id": 209247523,
+      "lat": 43.6769462,
+      "lon": -79.4069295
+    },
+    {
+      "type": "node",
+      "id": 209247525,
+      "lat": 43.6771318,
+      "lon": -79.4069994
+    },
+    {
+      "type": "node",
+      "id": 209247530,
+      "lat": 43.6769521,
+      "lon": -79.4069001
+    },
+    {
+      "type": "node",
+      "id": 209247532,
+      "lat": 43.6766898,
+      "lon": -79.4068302
+    },
+    {
+      "type": "node",
+      "id": 209247544,
+      "lat": 43.6771067,
+      "lon": -79.4069897
+    },
+    {
+      "type": "node",
+      "id": 209247551,
+      "lat": 43.6766073,
+      "lon": -79.4071402
+    },
+    {
+      "type": "node",
+      "id": 209247558,
+      "lat": 43.6766256,
+      "lon": -79.4071473
+    },
+    {
+      "type": "node",
+      "id": 209247566,
+      "lat": 43.6769904,
+      "lon": -79.4075316
+    },
+    {
+      "type": "node",
+      "id": 209247576,
+      "lat": 43.677026,
+      "lon": -79.4075217
+    },
+    {
+      "type": "node",
+      "id": 209247585,
+      "lat": 43.6765616,
+      "lon": -79.4073656
+    },
+    {
+      "type": "node",
+      "id": 240432361,
+      "lat": 43.6672723,
+      "lon": -79.4004397
+    },
+    {
+      "type": "node",
+      "id": 240432362,
+      "lat": 43.6673858,
+      "lon": -79.3999043
+    },
+    {
+      "type": "node",
+      "id": 2521570152,
+      "lat": 43.6671174,
+      "lon": -79.4003769
+    },
+    {
+      "type": "node",
+      "id": 2521570153,
+      "lat": 43.6671534,
+      "lon": -79.400207
+    },
+    {
+      "type": "node",
+      "id": 2521570154,
+      "lat": 43.6671659,
+      "lon": -79.4002121
+    },
+    {
+      "type": "node",
+      "id": 2521570155,
+      "lat": 43.6672434,
+      "lon": -79.3998466
+    },
+    {
+      "type": "node",
+      "id": 32566753,
+      "lat": 43.6684249,
+      "lon": -79.3943795
+    },
+    {
+      "type": "node",
+      "id": 32566754,
+      "lat": 43.6672065,
+      "lon": -79.3938698
+    },
+    {
+      "type": "node",
+      "id": 32566758,
+      "lat": 43.6669312,
+      "lon": -79.395113
+    },
+    {
+      "type": "node",
+      "id": 32566760,
+      "lat": 43.6679846,
+      "lon": -79.3954721
+    },
+    {
+      "type": "node",
+      "id": 214325341,
+      "lat": 43.6683235,
+      "lon": -79.3931922
+    },
+    {
+      "type": "node",
+      "id": 214325351,
+      "lat": 43.6683678,
+      "lon": -79.3929779
+    },
+    {
+      "type": "node",
+      "id": 214325361,
+      "lat": 43.6680692,
+      "lon": -79.3928598
+    },
+    {
+      "type": "node",
+      "id": 214325372,
+      "lat": 43.6679441,
+      "lon": -79.3933748
+    },
+    {
+      "type": "node",
+      "id": 214325380,
+      "lat": 43.668072,
+      "lon": -79.3933393
+    },
+    {
+      "type": "node",
+      "id": 214325389,
+      "lat": 43.6681015,
+      "lon": -79.3931971
+    },
+    {
+      "type": "node",
+      "id": 214325432,
+      "lat": 43.6681762,
+      "lon": -79.3932266
+    },
+    {
+      "type": "node",
+      "id": 214325440,
+      "lat": 43.6681867,
+      "lon": -79.3931762
+    },
+    {
+      "type": "node",
+      "id": 214325446,
+      "lat": 43.6682496,
+      "lon": -79.3932011
+    },
+    {
+      "type": "node",
+      "id": 214325455,
+      "lat": 43.6682569,
+      "lon": -79.3931658
+    },
+    {
+      "type": "node",
+      "id": 334396206,
+      "lat": 43.6671012,
+      "lon": -79.3943031
+    },
+    {
+      "type": "node",
+      "id": 334396213,
+      "lat": 43.6671392,
+      "lon": -79.3941548
+    },
+    {
+      "type": "node",
+      "id": 727887117,
+      "lat": 43.6684609,
+      "lon": -79.3945558
+    },
+    {
+      "type": "node",
+      "id": 727887123,
+      "lat": 43.6680051,
+      "lon": -79.3953782
+    },
+    {
+      "type": "node",
+      "id": 727887134,
+      "lat": 43.6681808,
+      "lon": -79.3954955
+    },
+    {
+      "type": "node",
+      "id": 727887139,
+      "lat": 43.6682596,
+      "lon": -79.3950975
+    },
+    {
+      "type": "node",
+      "id": 727887146,
+      "lat": 43.6684813,
+      "lon": -79.3947863
+    },
+    {
+      "type": "node",
+      "id": 1584173974,
+      "lat": 43.6679994,
+      "lon": -79.3933966
+    },
+    {
+      "type": "node",
+      "id": 1584173975,
+      "lat": 43.6680158,
+      "lon": -79.3933171
+    },
+    {
+      "type": "node",
+      "id": 1584173976,
+      "lat": 43.6680235,
+      "lon": -79.3929911
+    },
+    {
+      "type": "node",
+      "id": 1584173977,
+      "lat": 43.6680406,
+      "lon": -79.3929978
+    },
+    {
+      "type": "node",
+      "id": 1823163234,
+      "lat": 43.6683758,
+      "lon": -79.3949764
+    },
+    {
+      "type": "node",
+      "id": 2142265847,
+      "lat": 43.6679657,
+      "lon": -79.3933833
+    },
+    {
+      "type": "node",
+      "id": 2143282059,
+      "lat": 43.6677278,
+      "lon": -79.3940898
+    },
+    {
+      "type": "node",
+      "id": 2143282062,
+      "lat": 43.6677379,
+      "lon": -79.3940382
+    },
+    {
+      "type": "node",
+      "id": 2143282064,
+      "lat": 43.6678278,
+      "lon": -79.3940722
+    },
+    {
+      "type": "node",
+      "id": 2143282069,
+      "lat": 43.667897,
+      "lon": -79.3941611
+    },
+    {
+      "type": "node",
+      "id": 2143282072,
+      "lat": 43.6679083,
+      "lon": -79.3941047
+    },
+    {
+      "type": "node",
+      "id": 2143401271,
+      "lat": 43.6671411,
+      "lon": -79.3941455
+    },
+    {
+      "type": "node",
+      "id": 2143401272,
+      "lat": 43.6671519,
+      "lon": -79.3941133
+    },
+    {
+      "type": "node",
+      "id": 2143401273,
+      "lat": 43.6671965,
+      "lon": -79.3941692
+    },
+    {
+      "type": "node",
+      "id": 2143401274,
+      "lat": 43.6672038,
+      "lon": -79.3941349
+    },
+    {
+      "type": "node",
+      "id": 2144960984,
+      "lat": 43.667169,
+      "lon": -79.394037
+    },
+    {
+      "type": "node",
+      "id": 2149749928,
+      "lat": 43.6669993,
+      "lon": -79.3947885
+    },
+    {
+      "type": "node",
+      "id": 2149749929,
+      "lat": 43.6670132,
+      "lon": -79.3947224
+    },
+    {
+      "type": "node",
+      "id": 2149749930,
+      "lat": 43.6670522,
+      "lon": -79.3948113
+    },
+    {
+      "type": "node",
+      "id": 2149749931,
+      "lat": 43.6670638,
+      "lon": -79.3951667
+    },
+    {
+      "type": "node",
+      "id": 2149749932,
+      "lat": 43.6670657,
+      "lon": -79.3947454
+    },
+    {
+      "type": "node",
+      "id": 2149749933,
+      "lat": 43.667078,
+      "lon": -79.3950975
+    },
+    {
+      "type": "node",
+      "id": 2149749934,
+      "lat": 43.6672489,
+      "lon": -79.3951665
+    },
+    {
+      "type": "node",
+      "id": 2149749935,
+      "lat": 43.6672534,
+      "lon": -79.3952014
+    },
+    {
+      "type": "node",
+      "id": 2149749936,
+      "lat": 43.6672888,
+      "lon": -79.3952147
+    },
+    {
+      "type": "node",
+      "id": 2149749937,
+      "lat": 43.6673083,
+      "lon": -79.3951905
+    },
+    {
+      "type": "node",
+      "id": 2149749938,
+      "lat": 43.6675955,
+      "lon": -79.3953066
+    },
+    {
+      "type": "node",
+      "id": 2149749939,
+      "lat": 43.6678077,
+      "lon": -79.3953947
+    },
+    {
+      "type": "node",
+      "id": 2149749940,
+      "lat": 43.6678138,
+      "lon": -79.39543
+    },
+    {
+      "type": "node",
+      "id": 2149749941,
+      "lat": 43.6678492,
+      "lon": -79.3954433
+    },
+    {
+      "type": "node",
+      "id": 2149749942,
+      "lat": 43.667868,
+      "lon": -79.3954225
+    },
+    {
+      "type": "node",
+      "id": 2149749949,
+      "lat": 43.6683338,
+      "lon": -79.3949157
+    },
+    {
+      "type": "node",
+      "id": 2149749951,
+      "lat": 43.6683898,
+      "lon": -79.3945543
+    },
+    {
+      "type": "node",
+      "id": 2481906175,
+      "lat": 43.6677922,
+      "lon": -79.3940587
+    },
+    {
+      "type": "node",
+      "id": 2481906178,
+      "lat": 43.6678628,
+      "lon": -79.3940863
+    },
+    {
+      "type": "node",
+      "id": 2495309272,
+      "lat": 43.6681526,
+      "lon": -79.3932173
+    },
+    {
+      "type": "node",
+      "id": 394493147,
+      "lat": 43.6470997,
+      "lon": -79.3771538
+    },
+    {
+      "type": "node",
+      "id": 777473263,
+      "lat": 43.6469166,
+      "lon": -79.3771294
+    },
+    {
+      "type": "node",
+      "id": 1570132941,
+      "lat": 43.6469672,
+      "lon": -79.3770975
+    },
+    {
+      "type": "node",
+      "id": 2033799139,
+      "lat": 43.649934,
+      "lon": -79.3602602
+    },
+    {
+      "type": "node",
+      "id": 2033799144,
+      "lat": 43.6499479,
+      "lon": -79.3596364
+    },
+    {
+      "type": "node",
+      "id": 2033799145,
+      "lat": 43.649689,
+      "lon": -79.3596476
+    },
+    {
+      "type": "node",
+      "id": 2033799152,
+      "lat": 43.6497032,
+      "lon": -79.3602702
+    },
+    {
+      "type": "node",
+      "id": 2149834617,
+      "lat": 43.6499259,
+      "lon": -79.3599049
+    },
+    {
+      "type": "node",
+      "id": 2149834620,
+      "lat": 43.6499499,
+      "lon": -79.3597238
+    },
+    {
+      "type": "node",
+      "id": 2149834622,
+      "lat": 43.6499586,
+      "lon": -79.3597234
+    },
+    {
+      "type": "node",
+      "id": 2149834623,
+      "lat": 43.6499609,
+      "lon": -79.3598221
+    },
+    {
+      "type": "node",
+      "id": 2149834624,
+      "lat": 43.6499677,
+      "lon": -79.3598218
+    },
+    {
+      "type": "node",
+      "id": 2149834626,
+      "lat": 43.6499696,
+      "lon": -79.359903
+    },
+    {
+      "type": "node",
+      "id": 139620014,
+      "lat": 43.714283,
+      "lon": -79.338893
+    },
+    {
+      "type": "node",
+      "id": 139620015,
+      "lat": 43.714471,
+      "lon": -79.338979
+    },
+    {
+      "type": "node",
+      "id": 139620016,
+      "lat": 43.714455,
+      "lon": -79.33905
+    },
+    {
+      "type": "node",
+      "id": 139620021,
+      "lat": 43.715419,
+      "lon": -79.33992
+    },
+    {
+      "type": "node",
+      "id": 139620022,
+      "lat": 43.715493,
+      "lon": -79.339953
+    },
+    {
+      "type": "node",
+      "id": 139620023,
+      "lat": 43.71545,
+      "lon": -79.340053
+    },
+    {
+      "type": "node",
+      "id": 139620030,
+      "lat": 43.715279,
+      "lon": -79.340621
+    },
+    {
+      "type": "node",
+      "id": 139620032,
+      "lat": 43.714717,
+      "lon": -79.340651
+    },
+    {
+      "type": "node",
+      "id": 139620034,
+      "lat": 43.714552,
+      "lon": -79.341082
+    },
+    {
+      "type": "node",
+      "id": 139620036,
+      "lat": 43.71472,
+      "lon": -79.34121
+    },
+    {
+      "type": "node",
+      "id": 139620038,
+      "lat": 43.714445,
+      "lon": -79.340529
+    },
+    {
+      "type": "node",
+      "id": 139620039,
+      "lat": 43.714431,
+      "lon": -79.340592
+    },
+    {
+      "type": "node",
+      "id": 139620040,
+      "lat": 43.714526,
+      "lon": -79.340181
+    },
+    {
+      "type": "node",
+      "id": 139620041,
+      "lat": 43.714108,
+      "lon": -79.340446
+    },
+    {
+      "type": "node",
+      "id": 139620042,
+      "lat": 43.714205,
+      "lon": -79.340037
+    },
+    {
+      "type": "node",
+      "id": 139620043,
+      "lat": 43.71465,
+      "lon": -79.339663
+    },
+    {
+      "type": "node",
+      "id": 139620044,
+      "lat": 43.714625,
+      "lon": -79.339652
+    },
+    {
+      "type": "node",
+      "id": 139620046,
+      "lat": 43.714633,
+      "lon": -79.339617
+    },
+    {
+      "type": "node",
+      "id": 139620047,
+      "lat": 43.714161,
+      "lon": -79.339404
+    },
+    {
+      "type": "node",
+      "id": 2111470845,
+      "lat": 43.714589,
+      "lon": -79.340929
+    },
+    {
+      "type": "node",
+      "id": 2111470846,
+      "lat": 43.714644,
+      "lon": -79.340955
+    },
+    {
+      "type": "node",
+      "id": 2111470847,
+      "lat": 43.714651,
+      "lon": -79.341127
+    },
+    {
+      "type": "node",
+      "id": 2111470848,
+      "lat": 43.714944,
+      "lon": -79.341306
+    },
+    {
+      "type": "node",
+      "id": 2111470855,
+      "lat": 43.715427,
+      "lon": -79.339887
+    },
+    {
+      "type": "node",
+      "id": 2138305743,
+      "lat": 43.715312,
+      "lon": -79.340484
+    },
+    {
+      "type": "node",
+      "id": 2138305744,
+      "lat": 43.715352,
+      "lon": -79.340501
+    },
+    {
+      "type": "node",
+      "id": 2138305745,
+      "lat": 43.715368,
+      "lon": -79.340436
+    },
+    {
+      "type": "node",
+      "id": 2138305746,
+      "lat": 43.715399,
+      "lon": -79.340302
+    },
+    {
+      "type": "node",
+      "id": 2138305747,
+      "lat": 43.715411,
+      "lon": -79.340455
+    },
+    {
+      "type": "node",
+      "id": 2138305748,
+      "lat": 43.715443,
+      "lon": -79.340321
+    },
+    {
+      "type": "node",
+      "id": 2138305749,
+      "lat": 43.715415,
+      "lon": -79.340237
+    },
+    {
+      "type": "node",
+      "id": 2138305750,
+      "lat": 43.715407,
+      "lon": -79.340233
+    },
+    {
+      "type": "node",
+      "id": 2138305752,
+      "lat": 43.715467,
+      "lon": -79.34006
+    },
+    {
+      "type": "node",
+      "id": 6209346013,
+      "lat": 43.715008,
+      "lon": -79.341277
+    },
+    {
+      "type": "node",
+      "id": 6209346054,
+      "lat": 43.715453,
+      "lon": -79.339287
+    },
+    {
+      "type": "node",
+      "id": 6209346401,
+      "lat": 43.715428,
+      "lon": -79.339866
+    },
+    {
+      "type": "node",
+      "id": 6209346442,
+      "lat": 43.714944,
+      "lon": -79.341321
+    },
+    {
+      "type": "node",
+      "id": 6209346542,
+      "lat": 43.71518,
+      "lon": -79.340716
+    },
+    {
+      "type": "node",
+      "id": 6209346661,
+      "lat": 43.715203,
+      "lon": -79.339231
+    },
+    {
+      "type": "node",
+      "id": 6209346806,
+      "lat": 43.715435,
+      "lon": -79.339798
+    },
+    {
+      "type": "node",
+      "id": 6209346847,
+      "lat": 43.715024,
+      "lon": -79.34135
+    },
+    {
+      "type": "node",
+      "id": 6209346882,
+      "lat": 43.715523,
+      "lon": -79.339373
+    },
+    {
+      "type": "node",
+      "id": 6209347259,
+      "lat": 43.715512,
+      "lon": -79.339376
+    },
+    {
+      "type": "node",
+      "id": 6209347298,
+      "lat": 43.715033,
+      "lon": -79.341293
+    },
+    {
+      "type": "node",
+      "id": 6209347340,
+      "lat": 43.71547,
+      "lon": -79.339278
+    },
+    {
+      "type": "node",
+      "id": 6209347405,
+      "lat": 43.71517,
+      "lon": -79.340757
+    },
+    {
+      "type": "node",
+      "id": 6209347489,
+      "lat": 43.715403,
+      "lon": -79.339862
+    },
+    {
+      "type": "node",
+      "id": 6209347700,
+      "lat": 43.714995,
+      "lon": -79.341213
+    },
+    {
+      "type": "node",
+      "id": 6209347740,
+      "lat": 43.715414,
+      "lon": -79.339327
+    },
+    {
+      "type": "node",
+      "id": 6209347886,
+      "lat": 43.715443,
+      "lon": -79.339821
+    },
+    {
+      "type": "node",
+      "id": 6209347926,
+      "lat": 43.71495,
+      "lon": -79.341329
+    },
+    {
+      "type": "node",
+      "id": 6209348027,
+      "lat": 43.715177,
+      "lon": -79.340699
+    },
+    {
+      "type": "node",
+      "id": 6209348100,
+      "lat": 43.715104,
+      "lon": -79.339347
+    },
+    {
+      "type": "node",
+      "id": 6209348169,
+      "lat": 43.715223,
+      "lon": -79.340598
+    },
+    {
+      "type": "node",
+      "id": 6209348251,
+      "lat": 43.715459,
+      "lon": -79.33941
+    },
+    {
+      "type": "node",
+      "id": 6209348324,
+      "lat": 43.71553,
+      "lon": -79.339357
+    },
+    {
+      "type": "node",
+      "id": 6209348397,
+      "lat": 43.715111,
+      "lon": -79.340746
+    },
+    {
+      "type": "node",
+      "id": 6209348689,
+      "lat": 43.715536,
+      "lon": -79.339314
+    },
+    {
+      "type": "node",
+      "id": 6209349006,
+      "lat": 43.715021,
+      "lon": -79.341283
+    },
+    {
+      "type": "node",
+      "id": 6209349044,
+      "lat": 43.715457,
+      "lon": -79.339279
+    },
+    {
+      "type": "node",
+      "id": 6209349388,
+      "lat": 43.715423,
+      "lon": -79.339869
+    },
+    {
+      "type": "node",
+      "id": 6209349428,
+      "lat": 43.714943,
+      "lon": -79.341315
+    },
+    {
+      "type": "node",
+      "id": 6209349935,
+      "lat": 43.715224,
+      "lon": -79.339148
+    },
+    {
+      "type": "node",
+      "id": 6209350178,
+      "lat": 43.715439,
+      "lon": -79.339802
+    },
+    {
+      "type": "node",
+      "id": 6209350419,
+      "lat": 43.71502,
+      "lon": -79.341356
+    },
+    {
+      "type": "node",
+      "id": 6209350455,
+      "lat": 43.71552,
+      "lon": -79.339375
+    },
+    {
+      "type": "node",
+      "id": 6209350627,
+      "lat": 43.715154,
+      "lon": -79.340687
+    },
+    {
+      "type": "node",
+      "id": 6209351093,
+      "lat": 43.715494,
+      "lon": -79.339364
+    },
+    {
+      "type": "node",
+      "id": 6209351132,
+      "lat": 43.715035,
+      "lon": -79.341302
+    },
+    {
+      "type": "node",
+      "id": 6209351173,
+      "lat": 43.715532,
+      "lon": -79.339305
+    },
+    {
+      "type": "node",
+      "id": 6209351243,
+      "lat": 43.715162,
+      "lon": -79.340766
+    },
+    {
+      "type": "node",
+      "id": 6209351324,
+      "lat": 43.7154,
+      "lon": -79.339874
+    },
+    {
+      "type": "node",
+      "id": 6209351367,
+      "lat": 43.714733,
+      "lon": -79.341157
+    },
+    {
+      "type": "node",
+      "id": 6209351544,
+      "lat": 43.71502,
+      "lon": -79.341225
+    },
+    {
+      "type": "node",
+      "id": 6209351587,
+      "lat": 43.715441,
+      "lon": -79.339339
+    },
+    {
+      "type": "node",
+      "id": 6209351734,
+      "lat": 43.715432,
+      "lon": -79.339861
+    },
+    {
+      "type": "node",
+      "id": 6209351775,
+      "lat": 43.714946,
+      "lon": -79.341325
+    },
+    {
+      "type": "node",
+      "id": 6209351877,
+      "lat": 43.71518,
+      "lon": -79.340706
+    },
+    {
+      "type": "node",
+      "id": 6209351993,
+      "lat": 43.715139,
+      "lon": -79.339202
+    },
+    {
+      "type": "node",
+      "id": 6209352061,
+      "lat": 43.71518,
+      "lon": -79.340579
+    },
+    {
+      "type": "node",
+      "id": 6209352138,
+      "lat": 43.715372,
+      "lon": -79.33977
+    },
+    {
+      "type": "node",
+      "id": 6209352180,
+      "lat": 43.715026,
+      "lon": -79.341346
+    },
+    {
+      "type": "node",
+      "id": 6209352214,
+      "lat": 43.715528,
+      "lon": -79.339367
+    },
+    {
+      "type": "node",
+      "id": 6209352576,
+      "lat": 43.715537,
+      "lon": -79.339323
+    },
+    {
+      "type": "node",
+      "id": 6209352696,
+      "lat": 43.71503,
+      "lon": -79.341289
+    },
+    {
+      "type": "node",
+      "id": 6209352737,
+      "lat": 43.715464,
+      "lon": -79.339277
+    },
+    {
+      "type": "node",
+      "id": 6209352876,
+      "lat": 43.715417,
+      "lon": -79.339869
+    },
+    {
+      "type": "node",
+      "id": 6209352916,
+      "lat": 43.714943,
+      "lon": -79.341308
+    },
+    {
+      "type": "node",
+      "id": 6209353132,
+      "lat": 43.715434,
+      "lon": -79.339243
+    },
+    {
+      "type": "node",
+      "id": 6209353280,
+      "lat": 43.715442,
+      "lon": -79.339813
+    },
+    {
+      "type": "node",
+      "id": 6209353316,
+      "lat": 43.715015,
+      "lon": -79.341358
+    },
+    {
+      "type": "node",
+      "id": 6209353419,
+      "lat": 43.715168,
+      "lon": -79.340693
+    },
+    {
+      "type": "node",
+      "id": 6209353787,
+      "lat": 43.715481,
+      "lon": -79.339421
+    },
+    {
+      "type": "node",
+      "id": 6209353825,
+      "lat": 43.715035,
+      "lon": -79.34131
+    },
+    {
+      "type": "node",
+      "id": 6209353934,
+      "lat": 43.715156,
+      "lon": -79.340766
+    },
+    {
+      "type": "node",
+      "id": 6209354058,
+      "lat": 43.714652,
+      "lon": -79.34112
+    },
+    {
+      "type": "node",
+      "id": 1272611518,
+      "lat": 43.7572614,
+      "lon": -79.4087448
+    },
+    {
+      "type": "node",
+      "id": 1272611525,
+      "lat": 43.7572902,
+      "lon": -79.4086932
+    },
+    {
+      "type": "node",
+      "id": 1272611528,
+      "lat": 43.7573783,
+      "lon": -79.4087953
+    },
+    {
+      "type": "node",
+      "id": 1272611529,
+      "lat": 43.7572746,
+      "lon": -79.4086864
+    },
+    {
+      "type": "node",
+      "id": 1272611534,
+      "lat": 43.7573054,
+      "lon": -79.4086256
+    },
+    {
+      "type": "node",
+      "id": 1272611538,
+      "lat": 43.7574067,
+      "lon": -79.4086694
+    },
+    {
+      "type": "node",
+      "id": 2274637294,
+      "lat": 43.7573611,
+      "lon": -79.4086497
+    },
+    {
+      "type": "node",
+      "id": 2274637296,
+      "lat": 43.7573882,
+      "lon": -79.4087516
+    },
+    {
+      "type": "node",
+      "id": 1453243649,
+      "lat": 43.7695722,
+      "lon": -79.414909
+    },
+    {
+      "type": "node",
+      "id": 1453243651,
+      "lat": 43.7695872,
+      "lon": -79.414787
+    },
+    {
+      "type": "node",
+      "id": 1453243653,
+      "lat": 43.7696263,
+      "lon": -79.4146901
+    },
+    {
+      "type": "node",
+      "id": 1453243654,
+      "lat": 43.7696427,
+      "lon": -79.4145707
+    },
+    {
+      "type": "node",
+      "id": 1453243656,
+      "lat": 43.7696391,
+      "lon": -79.4147993
+    },
+    {
+      "type": "node",
+      "id": 1453243660,
+      "lat": 43.7696421,
+      "lon": -79.4147795
+    },
+    {
+      "type": "node",
+      "id": 1453243661,
+      "lat": 43.7696483,
+      "lon": -79.4146964
+    },
+    {
+      "type": "node",
+      "id": 1453243664,
+      "lat": 43.7696705,
+      "lon": -79.4148068
+    },
+    {
+      "type": "node",
+      "id": 1453243665,
+      "lat": 43.7696727,
+      "lon": -79.4147899
+    },
+    {
+      "type": "node",
+      "id": 1453243666,
+      "lat": 43.7697018,
+      "lon": -79.4149375
+    },
+    {
+      "type": "node",
+      "id": 1453243675,
+      "lat": 43.769716,
+      "lon": -79.4148168
+    },
+    {
+      "type": "node",
+      "id": 1453243677,
+      "lat": 43.7697107,
+      "lon": -79.4147989
+    },
+    {
+      "type": "node",
+      "id": 1453243680,
+      "lat": 43.7697207,
+      "lon": -79.4147168
+    },
+    {
+      "type": "node",
+      "id": 1453243681,
+      "lat": 43.7697537,
+      "lon": -79.4147251
+    },
+    {
+      "type": "node",
+      "id": 1453243683,
+      "lat": 43.7697675,
+      "lon": -79.414608
+    },
+    {
+      "type": "node",
+      "id": 5642023298,
+      "lat": 43.7696373,
+      "lon": -79.4147778
+    },
+    {
+      "type": "node",
+      "id": 5642023299,
+      "lat": 43.7696315,
+      "lon": -79.4146531
+    },
+    {
+      "type": "node",
+      "id": 5642023300,
+      "lat": 43.7696349,
+      "lon": -79.4146275
+    },
+    {
+      "type": "node",
+      "id": 5642023301,
+      "lat": 43.7696081,
+      "lon": -79.4146461
+    },
+    {
+      "type": "node",
+      "id": 5642023302,
+      "lat": 43.7696113,
+      "lon": -79.4146195
+    },
+    {
+      "type": "node",
+      "id": 5642023303,
+      "lat": 43.7697155,
+      "lon": -79.4145925
+    },
+    {
+      "type": "node",
+      "id": 5642023304,
+      "lat": 43.7696852,
+      "lon": -79.4145834
+    },
+    {
+      "type": "node",
+      "id": 5642023305,
+      "lat": 43.7697183,
+      "lon": -79.4145728
+    },
+    {
+      "type": "node",
+      "id": 5642023306,
+      "lat": 43.7696882,
+      "lon": -79.414564
+    },
+    {
+      "type": "node",
+      "id": 5642023307,
+      "lat": 43.7696282,
+      "lon": -79.4147967
+    },
+    {
+      "type": "node",
+      "id": 5642023760,
+      "lat": 43.7696383,
+      "lon": -79.4147703
+    },
+    {
+      "type": "node",
+      "id": 5642023761,
+      "lat": 43.7695852,
+      "lon": -79.4148032
+    },
+    {
+      "type": "node",
+      "id": 927480394,
+      "lat": 43.790412,
+      "lon": -79.363481
+    },
+    {
+      "type": "node",
+      "id": 927480397,
+      "lat": 43.790437,
+      "lon": -79.363367
+    },
+    {
+      "type": "node",
+      "id": 927480399,
+      "lat": 43.79029,
+      "lon": -79.363429
+    },
+    {
+      "type": "node",
+      "id": 927480401,
+      "lat": 43.790315,
+      "lon": -79.363316
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Nearby Museums</title>
+        <!-- Leaflet CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+         integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+         crossorigin=""/>
+
+        <!-- Leaflet JS -->
+        <!-- Make sure you put this AFTER Leaflet's CSS -->
+        <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+         integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+         crossorigin="">
+        </script>
+
+        <!-- Set map height -->
+        <style>
+            #mapid { height: 500px; }
+        </style>
+    </head>
+    <body>
+
+        <h1>Nearby Museums</h1>
+        {% if museums %}
+        <ul>
+        {% for museum in museums %}
+            <li>
+            {{ museum.name }}: {{museum.distance}}
+            </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+
+        <!-- map div -->
+        <div id="mapid"></div>
+        <!-- map js  -->
+        <script>
+            var map = L.map('mapid').setView([43.676899, -79.407158], 17);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            L.marker([43.6720569, -79.407158]).addTo(map)
+                .bindPopup('I am in Toronto.<br> Looking for museums.')
+                .openPopup();
+
+            {% for museum in museums %}
+            var circle = L.circle([{{ museum.location.y }}, {{ museum.location.x }}], {
+                color: 'red',
+                fillColor: '#f03',
+                fillOpacity: 0.5,
+                radius: 25
+            }).addTo(map);
+            {% endfor %}
+
+        </script>
+    </body>
+</html>
